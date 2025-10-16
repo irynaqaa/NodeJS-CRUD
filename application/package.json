@@ -1,0 +1,11 @@
+{
+  "name": "playwright-test-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "jest": "latest"
+  }
+}
